@@ -10,7 +10,6 @@
 <li>Sticky navigation</li>
 <li>Lazy loading images</li>
 <li>Slider</li>
-<li>Responsive design</li>
 </ul>
 <h4>Site URL:</h4>
 https://interactive-bank-site.netlify.app
